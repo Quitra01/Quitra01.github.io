@@ -1198,7 +1198,7 @@ var environment = {
     apiPassword: '9dd0fc99824c44968ec3a4989afd8592',
     deviceId: '_dev_843153731257429193',
     isEmirleriListesiKontrol: 30,
-    isEmriKontrol: 2,
+    isEmriKontrol: 10,
 };
 /*
  * For easier debugging in development mode, you can import the following file
